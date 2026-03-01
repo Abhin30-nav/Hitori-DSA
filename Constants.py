@@ -1,0 +1,2 @@
+CELL_WHITE = 0
+CELL_BLACK = 1
